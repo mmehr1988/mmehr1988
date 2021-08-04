@@ -8,32 +8,29 @@ I'll be done in November, so until then feel free to check out my Github project
 
 <!-- Email -->
 <a href="mailto:tatash.my@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<br>
+
 
 <!-- LinkedIn -->
 
 <a href="https://www.linkedin.com/in/mehdi-mehrabani-810327219/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-<br>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 <!-- Slack -->
 
 <a href="https://mehdimehrabani.slack.com">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-    </a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</a>
 <br>
 
 <!-- Soundcloud -->
 <a href="https://soundcloud.com/saintabdullah">
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
 </a>
-
-<br>
 
 <!-- Bandcamp -->
 <a href="https://saintabdullah.bandcamp.com">
