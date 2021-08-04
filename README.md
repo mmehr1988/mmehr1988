@@ -4,7 +4,7 @@ Welcome to my Github profile.
 
 I'm currently working through a coding bootcamp, so I'm sorry if I have to reject your job offers 💔 .
 
-I'll be done in November, so until then feel free to check out my Github projects and the below.
+I'll be done in November, so until then feel free to check out my Github and the below.
 
 <!-- Email -->
 <a href="mailto:tatash.my@gmail.com">
