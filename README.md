@@ -1,11 +1,18 @@
 ## Hi there 👋
 
-Welcome to my Github profile.
+Welcome to my Github profile. My name is Mehdi Mehrabani and I'm a Canadian Iranian living in New York, NY.
 
-I'm currently working through a coding bootcamp, so I'm sorry if I have to reject your job offers 💔 🙃 .
+I'm a full stack developer who loves telling stories with sound. Former finance geek who couldn't resist the creative world. 
 
-I'll be done in November, so until then feel free to check out my Github profile and other links by clicking on each badge.
+My dream is to build apps that reduces fear for people who don't have a musical background but want to create music to tell stories.
 
+Currently, I'm completing full-stack certificate from Columbia Engineering's coding bootcamp which will end in Fall 2021. 
+
+Front-end skills include HTML, CSS, Bootstrap, JavaScript, jQuery. 
+
+Backend skills include Node.js.
+
+Feel free to check out my Github profile and other links by clicking on each badge.
 
 
 <!-- Slack -->
