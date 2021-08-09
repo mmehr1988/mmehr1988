@@ -8,9 +8,9 @@ My dream is to build apps that reduces fear for people who don't have a musical 
 
 Currently, I'm completing full-stack certificate from Columbia Engineering's coding bootcamp which will end in Fall 2021. 
 
-Front-end skills include HTML, CSS, Bootstrap, JavaScript, jQuery. 
+Front-End Skills: HTML, CSS, Bootstrap, JavaScript, jQuery. 
 
-Backend skills include Node.js.
+Backend Skills: Node.js.
 
 Feel free to check out my Github profile and other links by clicking on each badge.
 
