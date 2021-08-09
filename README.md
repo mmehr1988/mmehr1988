@@ -6,26 +6,32 @@ I'm currently working through a coding bootcamp, so I'm sorry if I have to rejec
 
 I'll be done in November, so until then feel free to check out my Github and the below.
 
+
+
+<!-- Slack -->
+
+<a href="https://mmehr1988.github.io/curly-octo-guacamole/">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
 <!-- Email -->
 <a href="mailto:tatash.my@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-
 
 <!-- LinkedIn -->
 
 <a href="https://www.linkedin.com/in/mehdi-mehrabani-810327219/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-
+<br>
 <!-- Slack -->
 
 <a href="https://mehdimehrabani.slack.com">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </a>
-<br>
+
 
 <!-- Soundcloud -->
 <a href="https://soundcloud.com/saintabdullah">
