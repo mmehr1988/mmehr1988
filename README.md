@@ -10,7 +10,7 @@ Currently, I'm completing full-stack certificate from Columbia Engineering's cod
 
 Front-End Skills: HTML, CSS, Bootstrap, JavaScript, jQuery. 
 
-Backend Skills: Node.js.
+Backend Skills: MERN.
 
 Feel free to check out my Github profile and other links by clicking on each badge.
 
