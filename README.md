@@ -8,9 +8,9 @@ My dream is to build apps relating to music composition and story telling.
 
 Most recently, I completed a 6 month coding bootcamp at Columbia University. During this period, I was able to build real life projects that demonstrated my ability to work with various technologies, most notably MERN stack.
 
-Front-End Skills: HTML, CSS, JavaScript, React, Bootstrap, Framer Motion, Styled Components.
+Front-End Skills: HTML, CSS, JavaScript, React, Bootstrap, Framer Motion, Styled Components, Material UI.
 
-Backend Skills: MERN.
+Backend Skills: MERN, Apollo GraphQL.
 
 Feel free to check out my Github profile and other links by clicking on each badge.
 
